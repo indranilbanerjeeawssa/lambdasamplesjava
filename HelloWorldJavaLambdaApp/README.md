@@ -35,6 +35,12 @@ To use the SAM CLI, you need the following tools.
 * Maven - [Install Maven](https://maven.apache.org/install.html)
 * Docker - [Install Docker community edition](https://hub.docker.com/search/?type=edition&offering=community)
 
+To create the sample HelloWorld Java application, you can use the sam init command to create the SAM project
+
+![image](https://user-images.githubusercontent.com/117561312/202633090-dedd363a-5c02-4feb-becb-2f5bae39856c.png)
+
+
+
 To build and deploy your application for the first time, run the following in your shell:
 
 ```bash
