@@ -39,7 +39,9 @@ To create the sample HelloWorld Java application, you can use the sam init comma
 
 ![image](https://user-images.githubusercontent.com/117561312/202633090-dedd363a-5c02-4feb-becb-2f5bae39856c.png)
 
+![image](https://user-images.githubusercontent.com/117561312/202635839-db89168c-aa74-43c6-9b5e-412810675534.png)
 
+After this SAM will go ahead and create the entire HelloWorld project inside a HelloWorld folder
 
 To build and deploy your application for the first time, run the following in your shell:
 
